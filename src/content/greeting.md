@@ -1,0 +1,1 @@
+Bonjour ! Je suis l'assistant IA de **Joris Suarez**, développeur Full-Stack en alternance. Je suis ici pour vous présenter son parcours, ses projets et ses compétences. N'hésitez pas à me poser une question — par exemple : *"Quels sont tes projets ?"*, *"Quelles technos maîtrises-tu ?"* ou *"Tu cherches quoi comme alternance ?"*

@@ -1,0 +1,19 @@
+{
+  "basics": {
+    "name": "Joris Suarez",
+    "title": "Développeur Full-Stack en alternance",
+    "email": "Joris.Suarez@proton.me",
+    "linkedin": "https://www.linkedin.com/in/joris-suarez",
+    "github": "https://github.com/Seiya380",
+    "portfolio": "https://seiya380.github.io/Portfolio",
+    "location": "Lyon, France",
+    "photo": "PhotoCV.jpg",
+    "bot_avatar": "bot-avatar.jpg",
+    "cv_pdf_name": "CV_Joris_Suarez.pdf"
+  },
+  "ai_persona": {
+    "bot_name": "Assistant Joris",
+    "fun_fact_trigger": "anecdote",
+    "fun_fact_content": "J'ai réparé 5 ordinateurs pour d'autres personnes... pendant que le mien n'avait plus d'écran. J'ai tout fait à l'aveugle !"
+  }
+}
